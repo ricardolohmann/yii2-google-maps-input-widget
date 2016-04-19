@@ -1,0 +1,32 @@
+{
+    "name": "ricardolohmann/yii2-google-maps-input-widget",
+    "description": "Yii2 Google maps input widget.",
+    "keywords":
+    [
+        "yii2",
+        "extension",
+        "widget",
+        "maps",
+        "input",
+        "geocoding",
+        "Google maps"
+    ],
+    "homepage": "https://github.com/ricardolohmann/yii2-google-maps-input-widget",
+    "type": "yii2-extension",
+    "license": "GNU GPL v3.0",
+    "authors":
+    [
+        {
+            "name": "Ricardo Alvaro Lohmann",
+            "email": "kaduh.ricardo@gmail.com",
+            "homepage": "http://github.com/ricardolohmann/"
+        }
+    ],
+    "autoload":
+    {
+        "psr-4":
+        {
+            "ricardolohmann": "source"
+        }
+    }
+}
